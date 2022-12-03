@@ -9,4 +9,4 @@ int third = int.Parse(Console.ReadLine());
 int max = first; 
 if(second > max) max = second;
 if(third > max) max = third;
-Console.WriteLine($"Максимальное число равно {max}");
+Console.WriteLine($"Максимальное число равно: {max}");
