@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\bin\Debug\net6.0\Task_22.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\bin\Debug\net6.0\Task_22.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\bin\Debug\net6.0\Task_22.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\bin\Debug\net6.0\Task_22.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\bin\Debug\net6.0\Task_22.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\refint\Task_22.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\Task_22.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_22\obj\Debug\net6.0\ref\Task_22.dll
