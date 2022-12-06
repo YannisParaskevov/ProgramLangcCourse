@@ -8,8 +8,6 @@ void FillArray(int[] collection) // FillArray - функция заполни м
       index++;
     }
 }
-
-
 void PrintArray(int[] coll) // PrintArray - функция напечатай массив
 {
     int count = 0;

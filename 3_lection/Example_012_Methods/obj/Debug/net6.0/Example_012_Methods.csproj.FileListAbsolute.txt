@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\refint\Example_012_Methods.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\3_lection\Example_012_Methods\obj\Debug\net6.0\ref\Example_012_Methods.dll
