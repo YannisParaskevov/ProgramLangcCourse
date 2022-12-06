@@ -2,7 +2,7 @@
 Console.Clear();
 Console.Write("Введите натуральное число: ");
 int num = int.Parse(Console.ReadLine());
-if(num < 0)  Console.WriteLine("'Это не натуральное число");
+if(num < 0)  Console.WriteLine("Это не натуральное число");
 if(num == 0)  
 {
     Console.Write("0.");
