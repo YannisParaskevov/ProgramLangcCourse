@@ -2,38 +2,17 @@
 Console.Clear();
 Console.Write("Введите пятизначное число: ");
 int num = int.Parse(Console.ReadLine());
-if(num < 0)  
+if(num < 10000 || num > 99999 )
 {
     Console.WriteLine("Это не пятизначное число");
     return;
 }
 int[] number = new int[5];
-Console.WriteLine($"{number[0]}, {number[1]}, {number[2]}, {number[3]}, {number[4]}");
-int index = 0;
-int aux = num;
-number[index] = aux%10;
-index = index+1;
-aux = aux /10;
-number[index] = aux%10;
-index = index+1;
-aux = aux /10;
-number[index] = aux%10;
-index = index+1;
-aux = aux /10;
-number[index] = aux%10;
-index = index+1;
-aux = aux /10;
-number[index] = aux%10;
-//while(index < 3)
-  //  number[index] = aux%10;
-    //aux = aux/10;
-    // index++;
-Console.WriteLine($"{number[0]}, {number[1]}, {number[2]}, {number[3]}, {number[4]}");
-if((number[0] == number[4]) && (number[1] == number[3])) 
+int temp = num;
+for(int i=4; i >= 0; i--)
 {
-    Console.WriteLine("Это палиндром");
+    number[i] = temp%10;
+    temp = temp/10;
 }
-else
-{
-    Console.WriteLine("Это не палиндром");
-}
+if((number[0] == number[4]) && (number[1] == number[3])) Console.WriteLine($"{num} -> да, это палиндром");
+else Console.WriteLine($"{num} -> нет, это не палиндром");
