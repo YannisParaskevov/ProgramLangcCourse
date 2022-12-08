@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\bin\Debug\net6.0\Task_296.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\bin\Debug\net6.0\Task_296.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\bin\Debug\net6.0\Task_296.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\bin\Debug\net6.0\Task_296.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\bin\Debug\net6.0\Task_296.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\refint\Task_296.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\Task_296.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\acmp\Task_296\obj\Debug\net6.0\ref\Task_296.dll
