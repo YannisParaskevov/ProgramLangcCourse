@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\bin\Debug\net6.0\Example_013.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\bin\Debug\net6.0\Example_013.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\bin\Debug\net6.0\Example_013.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\bin\Debug\net6.0\Example_013.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\bin\Debug\net6.0\Example_013.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\refint\Example_013.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\Example_013.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\4_lection\Example_013\obj\Debug\net6.0\ref\Example_013.dll
