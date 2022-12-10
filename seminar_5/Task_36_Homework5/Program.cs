@@ -13,7 +13,7 @@ int[] FillPrintArray(int[] array, int min, int max)
     Console.WriteLine();
     return array;
 }
-int SumNotEven (int[] arr) // нумерация по прогр. 0, 1, 2, 3 ...
+int SumNotEven (int[] arr) // нумерация по программированию 0, 1, 2, 3 ...
 {
     int Sum = 0;
     if(arr.Length == 1) return Sum;

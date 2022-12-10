@@ -34,5 +34,5 @@ if(ind<1)
 int[] array = new int[ind]; 
 FillPrintArray(array, 100, 1000);
 Console.WriteLine();
-Console.WriteLine($"В массиве {HMEven(array)} четных элементов");
+Console.WriteLine($"Количество четных эл-ов в этом массиве  -> {HMEven(array)}");
 Console.WriteLine();
