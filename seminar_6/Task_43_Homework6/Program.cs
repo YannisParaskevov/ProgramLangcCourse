@@ -16,7 +16,7 @@ double[] CrossPoint(double[] firstLine, double[] secondLine)
 {
     double[] result = new double[2];
     result[0] = (secondLine[1] - firstLine[1])/ (firstLine[0] - secondLine[0]);
-    if(result[0] == 0) result[0]=Math.Abs(result[0]);
+    // if(result[0] == 0) result[0]=Math.Abs(result[0]);
     result[1] = result[0]*firstLine[0]+firstLine[1];
     if(result[1] == 0) result[1]=Math.Abs(result[1]);
     return result;
@@ -43,5 +43,5 @@ if(firstLine[0] == secondLine[0])
 else
     {
     double[]coordinateCrossPoint = CrossPoint(firstLine, secondLine);
-    Console.WriteLine($"Координаты точки пересечения этих прямых ({coordinateCrossPoint[0]:f3}; {coordinateCrossPoint[1]:f3}) (Округлено до тысячных)");
+    Console.WriteLine($"Координаты точки пересечения этих прямых ({coordinateCrossPoint[0]}; {coordinateCrossPoint[1]}) (Округлено до тысячных)");
     }
