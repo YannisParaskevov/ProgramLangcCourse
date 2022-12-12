@@ -4,11 +4,8 @@
 // 2 -> 10
 string toBinary(int n)
 {
-    Console.WriteLine($"{n}");
     string aux = "";
-    Console.WriteLine($"-{aux}-");
     int ost = 0;
-    Console.WriteLine($"-{aux}-");
     while(n > 0)
         {
             ost = n%2;
