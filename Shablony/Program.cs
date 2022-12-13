@@ -39,17 +39,17 @@
 // Console.WriteLine();
 
 
-static int[] PasTri(int n) {
-    int[] result = new int[n];
-    result [0] = 1;
-    for (int i = 1; i < n; i++) {
-        int left = 0;
-        for (int j = 0; j <= i; j++) {                  
-            int tmp = result [j];
-            result [j] += left;
-            left = tmp;
-        }
-    }
-    return result;
-}
-PasTri(5);
+// static int[] PasTri(int n) {
+//     int[] result = new int[n];
+//     result [0] = 1;
+//     for (int i = 1; i < n; i++) {
+//         int left = 0;
+//         for (int j = 0; j <= i; j++) {                  
+//             int tmp = result [j];
+//             result [j] += left;
+//             left = tmp;
+//         }
+//     }
+//     return result;
+// }
+// Console.Write($"В массиве [{string.Join("; ", PasTri(5))}] ");
