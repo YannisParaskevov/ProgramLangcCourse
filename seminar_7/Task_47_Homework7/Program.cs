@@ -38,8 +38,8 @@ void PrintArray(double[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            if(array[i,j]>=0) Write($" {array[i,j]:f3} |");
-            else Write($"{array[i,j]:f3} |");
+            if(array[i,j]>=0) Write($" {array[i,j]:f3} ");
+            else Write($"{array[i,j]:f3} ");
         }
         WriteLine();
     }

@@ -14,8 +14,9 @@ Write("Введите количество столбцов : ");
 int columns=int.Parse(ReadLine());
 int[,] array = GetArray(rows, columns, 0, 9);
 PrintArray(array);
+WriteLine();
 AverageInCollumns(array);
-
+WriteLine();
 
 int[,] GetArray(int m, int n, int min, int max)
 {
@@ -31,26 +32,25 @@ int[,] GetArray(int m, int n, int min, int max)
 }
 void PrintArray(int[,] array)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < array.Length; j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            Write($" {array[i,j]} |");
+            Write($"   {array[i,j]}   ");
         }
         WriteLine();
     }
 }
 void AverageInCollumns(int[,] array)
 {
-    // double[] res = new double[array.GetLength(1)];
     for(int j=0; j<array.GetLength(1); j++)
     {
-        int tempSum = 0;
+        double tempSum = 0;
         for(int i=0; i<array.GetLength(0); i++)
             {
                 tempSum = tempSum + array[i,j];
             }
-    // res[j] = tempSum/array.GetLength(1);
-    Write($" {tempSum/array.GetLength(1):f3)} ] ");
+    Write($" {tempSum/array.GetLength(0):f3} ");
     }
+WriteLine();
 }

@@ -16,8 +16,8 @@ int columns=int.Parse(ReadLine());
 double[,] array = GetArray(rows, columns, 0, 9);
 PrintArray(array);
 Console.WriteLine();
-Console.Write("Введите позицию элемента массива в виде двузначного числа- десятки-строка, единицы-столбец = ");
-int position = int.Parse(Console.ReadLine());
+Console.Write("Введите позицию элемента строка пробел столбец: ");
+string position = Console.ReadLine();
 ShowPosition(array, position);
 
 double[,] GetArray(int m, int n, int min, int max)
@@ -43,13 +43,14 @@ void PrintArray(double[,] array)
         WriteLine();
     }
 }
-void ShowPosition(double[,] array, int pos)
+void ShowPosition(double[,] array, string pos)
 {
-    int row = pos/10;
-    int column = pos%10;
-    if(row <= array.GetLength(0) && column <= array.GetLength(1)) 
+    string[] stringPosition = pos.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+    int numPosRow = int.Parse(stringPosition[0]);
+    int numPosCollumn = int.Parse(stringPosition[1]);
+    if(numPosRow <= array.GetLength(0) && numPosCollumn <= array.GetLength(1)) 
     {
-        Write($"{pos} -> Значение на этой позиции без округления -> {array[row-1,column-1]}"); 
+        Write($"[{numPosRow}{numPosCollumn}] -> Значение на этой позиции без округления -> {array[numPosRow-1,numPosCollumn-1]}"); 
     }
-    else Write($"{pos} -> такой позиции в массиве нет"); 
+    else Write($"[{numPosRow}{numPosCollumn}] -> такой позиции в массиве нет");
 }

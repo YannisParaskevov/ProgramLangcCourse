@@ -114,5 +114,5 @@ double Fibonacci(int n)
 }
 for (int i = 1; i < 10; i++)
 {
- Console.WriteLine($"f({i}) = {Fibonacci(i)}");
+ Console.WriteLine($"f({10}) = {Fibonacci(40)}");
 }
