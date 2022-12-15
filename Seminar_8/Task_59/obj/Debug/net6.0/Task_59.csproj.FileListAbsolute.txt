@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\bin\Debug\net6.0\Task_59.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\bin\Debug\net6.0\Task_59.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\bin\Debug\net6.0\Task_59.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\bin\Debug\net6.0\Task_59.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\bin\Debug\net6.0\Task_59.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\refint\Task_59.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\Task_59.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_8\Task_59\obj\Debug\net6.0\ref\Task_59.dll

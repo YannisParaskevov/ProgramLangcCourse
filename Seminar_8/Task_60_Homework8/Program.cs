@@ -9,11 +9,11 @@
 using System;
 using static System.Console;
 Clear();
-Write("Введите количество строк 3х-мерного массива: ");
-int x=int.Parse(ReadLine());
-Write("Введите количество столбцов 3х-мерного массива: ");
-int y=int.Parse(ReadLine());
 Write("Введите глубину 3х-мерного массива: ");
+int x=int.Parse(ReadLine());
+Write("Введите количество строк 3х-мерного массива: ");
+int y=int.Parse(ReadLine());
+Write("Введите количество столбцов 3х-мерного массива: ");
 int z=int.Parse(ReadLine());
 if(x*y*z < 90)
 {
@@ -27,7 +27,7 @@ Print3DimArray(threeDimArray);
 }
 else 
 {
-    Write("Не сработает, надо увеличить диапазон генератора случ.чисел");
+    Write("Не сработает, т.к. не получится не повторять чисел");
     return;
 }
 
