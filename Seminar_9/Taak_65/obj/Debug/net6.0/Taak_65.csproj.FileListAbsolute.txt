@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\bin\Debug\net6.0\Taak_65.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\bin\Debug\net6.0\Taak_65.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\bin\Debug\net6.0\Taak_65.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\bin\Debug\net6.0\Taak_65.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\bin\Debug\net6.0\Taak_65.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\refint\Taak_65.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\Taak_65.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\Seminar_9\Taak_65\obj\Debug\net6.0\ref\Taak_65.dll
